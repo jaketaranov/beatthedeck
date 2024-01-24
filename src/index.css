@@ -1,0 +1,16 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+ /* color-scheme: light dark; */
+  /* color: rgba(70, 70, 70, 0.801); */
+  /* background-color: #3d3c3d; */
+  background-image: url("/misc/background.jpg");
+  background-repeat: repeat-x;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
